@@ -1,12 +1,52 @@
-# React + Vite
+🌟 Phaneendra Guttula — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences as a Computer Science graduate and aspiring Java Developer.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **About Me** — A brief introduction to my background and career journey.  
+- **Skills** — Highlights my technical skills including Java, Python, HTML, CSS, JavaScript, React, and more.  
+- **Projects** — Showcases featured projects like *Student Performance Prediction*, *Handwritten Digit Prediction*, and *Employee Management System*.  
+- **Contact** — Provides links to my LinkedIn, GitHub, and email for easy communication.  
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** for building the UI.  
+- **CSS** for stylish and modern designs.  
+- **Netlify** for deployment.  
+
+## 🌐 Live Demo
+
+Check out my live portfolio: [Visit Here](#) *(Add your Netlify link here)*
+
+## 📁 How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Phaneendra25/portfolio.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd portfolio
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Run the development server:
+   ```bash
+   npm start
+   ```
+
+## 📬 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/phani-guttula
+- GitHub: https://github.com/Phani-guttula
+- Email: phaniguttula25@gmail.com
+
+Feel free to explore the code, suggest improvements, or just say hi!
+
+---
+
+⭐ **Thank you for visiting my portfolio!**
+
