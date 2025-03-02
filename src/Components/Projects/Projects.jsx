@@ -16,7 +16,7 @@ const projects = [
     {
         title: 'To-Do List App',
         description: 'A React app for managing daily tasks with add and delete features.',
-        link: 'https://github.com/Phani-guttula/To-Do-List-App'
+        link: 'https://sensational-scone.netlify.app/'
     },
 
   ];
